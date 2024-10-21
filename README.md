@@ -1,6 +1,6 @@
 # Fraser Heights Secondary Mechatronic Club
 
-Welcome to the **Fraser Heights Secondary Mechatronic Club**! We are a group of passionate students working on exciting engineering projects, from space travel simulations to robotics and more. Our club provides hands-on experience with coding, electronics, and mechanical design, offering an opportunity to learn and collaborate on real-world STEM challenges.
+Welcome to the **Fraser Heights Secondary Mechatronic Club**! We are a group of passionate students working on exciting engineering projects. Our club provides hands-on experience with coding, electronics, and mechanical design, offering an opportunity to learn and collaborate on real-world STEM challenges.
 
 ## Mission
 Our mission is to inspire creativity and innovation in the field of mechatronics, combining mechanical engineering, electronics, and software to create cutting-edge projects. We strive to prepare students for future careers in engineering and technology through project-based learning and teamwork.
@@ -18,8 +18,14 @@ We are always looking for new ideas and contributors! If you want to contribute 
 
 MS Teams Code: wtrwik8
 
+[Instagram Page](https://www.instagram.com/fhssmechclub/)
+
+[CanSat Canada](https://www.csdcms.ca/index.php/cansat-design-challenge)
+[CanSat Signup](https://www.csdcms.ca/index.php/cansat-design-challenge?view=article&id=7&catid=2)
+[CanSat 2025 Rules](https://www.csdcms.ca/CanSat/2024-25/CSDC_CanSat_Requirements_2024-25.pdf)
+
 [Attendance](https://docs.google.com/spreadsheets/d/1umAEBgyqOZfpslBsxvqQwexDwqqHQ8IfyHImOSyMzUo/edit?usp=sharing)
 
 [Main Google Drive](https://drive.google.com/drive/folders/16xlJYyNLNFLrAiLQRo47j85fF1S1eVti?usp=sharing)
 
-[Instagram Page](https://www.instagram.com/fhssmechclub/)
+
