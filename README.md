@@ -9,7 +9,7 @@ Our mission is to inspire creativity and innovation in the field of mechatronics
 - **CanSat Challenge**: Developing a satellite in a can to predict weather and complete complex missions as part of the international competition.
 
 ## How to Join
-Interested in joining us? We welcome all skill levels! Whether you’re a seasoned coder or just starting, we have a place for you. To join, simply come to our meetings, which are held every [Day, Time, and Location].
+Interested in joining us? We welcome all skill levels! Whether you’re a seasoned coder or just starting, we have a place for you. To join, simply come to our meetings, which are held every Mondays and Tuesdays after school in Mr. Larkin's Room (Room 215).
 
 ## Contributing
 We are always looking for new ideas and contributors! If you want to contribute to our projects, feel free to reach out to us during meetings or contact us via email.
