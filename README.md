@@ -18,11 +18,13 @@ We are always looking for new ideas and contributors! If you want to contribute 
 
 MS Teams Code: wtrwik8
 
-[Instagram Page](https://www.instagram.com/fhssmechclub/)
+[Mechatronic Instagram](https://www.instagram.com/fhssmechclub/)
 
 [CanSat Canada](https://www.csdcms.ca/index.php/cansat-design-challenge)
 [CanSat Signup](https://www.csdcms.ca/index.php/cansat-design-challenge?view=article&id=7&catid=2)
 [CanSat 2025 Rules](https://www.csdcms.ca/CanSat/2024-25/CSDC_CanSat_Requirements_2024-25.pdf)
+
+[Autodesk Student Signup](https://www.autodesk.com/ca-en/support/account/education/students-educators/get-started)
 
 [Attendance](https://docs.google.com/spreadsheets/d/1umAEBgyqOZfpslBsxvqQwexDwqqHQ8IfyHImOSyMzUo/edit?usp=sharing)
 
