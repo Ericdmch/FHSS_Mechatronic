@@ -24,6 +24,7 @@ MS Teams Code: wtrwik8
 [Arduino Examples](https://www.arduino.cc/en/Tutorial/BuiltInExamples)
 
 [Autodesk Student Signup](https://www.autodesk.com/ca-en/support/account/education/students-educators/get-started)
+[Github Student Signup](https://github.com/education/students)
 
 [Attendance](https://docs.google.com/spreadsheets/d/1umAEBgyqOZfpslBsxvqQwexDwqqHQ8IfyHImOSyMzUo/edit?usp=sharing)
 
